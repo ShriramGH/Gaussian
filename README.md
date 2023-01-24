@@ -56,6 +56,9 @@ for i in range(n):
 
 ## Output:
 ![gaussian elimination]()
+![Screenshot 2023-01-24 195506](https://user-images.githubusercontent.com/117991122/214321056-a421c613-5d9a-4900-a78e-d6f6fa326adc.png)
+![Screenshot 2023-01-24 195707](https://user-images.githubusercontent.com/117991122/214321147-d67dec51-bdbc-42d7-8674-1538855cd5b4.png)
+
 
 
 ## Result:
